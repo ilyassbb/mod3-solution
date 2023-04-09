@@ -1,0 +1,34 @@
+/* Small  */
+@media (min-width: 768px) {
+
+    .nav-item {
+        display: none;
+    }
+
+}
+  /* Medium */
+  @media (min-width: 992px) { */
+    .nav-item {
+        display: none;
+    }
+ }
+  /* Large */
+  @media (min-width: 1200px) {
+    .nav-item {
+        display: none;
+    }
+
+   }
+  /* start landing */ 
+  .text-center{
+    margin-top: 15px;
+  }
+  .container .jumbotron {
+    border: 1px solid #000;
+    margin: 20px;
+    padding: 20px;
+    font-size: 18px;
+  }
+  ul il a{
+    color: white;
+  }
